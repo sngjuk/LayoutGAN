@@ -3,7 +3,7 @@ LayoutGAN implementation, (under construction)
 <br><br>
 <b>README :</b> Failed to reproduce paper's result <br>
 - my implementation of max pooling is totally wrong.<br>
-- the self-attention should be checked if its back-prop gradient flows well.<br>
+- the self-attention(relation_module) should be checked if its back-prop gradient flows well.<br>
 - the hidden layer size is my arbitrary choice.<br>
 - check it out for implementation reference. [PointNet](https://www.youtube.com/watch?v=Cge-hot0Oc0)<br>
 <br>
