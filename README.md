@@ -2,10 +2,10 @@
 LayoutGAN implementation, (under construction)
 <br><br>
 README <br>
-- my implementation of max pooling is totally wrong. <br>
-- the self-attention should be checked if its back-prop gradient flows well. <br>
-- the hidden layer size is my arbitrary choice. <br>
-- check it out. [PointNet](https://www.youtube.com/watch?v=Cge-hot0Oc0) <br>
+-my implementation of max pooling is totally wrong.
+-the self-attention should be checked if its back-prop gradient flows well.
+-the hidden layer size is my arbitrary choice.
+-check it out. [PointNet](https://www.youtube.com/watch?v=Cge-hot0Oc0)
 <br>
 TODO <br>
 - Logic bugfix on random z generation on training. <br>
