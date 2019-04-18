@@ -22,7 +22,7 @@ class MnistLayoutDataset(data.Dataset):
         for id, i in enumerate(img):
             for jd, j in enumerate(i):
                 if j >= gt_thold:
-                    gt_values.append(torch.FloatTensor([1, np.float32(2*id +1)/48, np.float32(2*jd +1)/48]))
+                    gt_values.append(torch.FloatTensor([1, np.float32(2*id +1)/56, np.float32(2*jd +1)/56]))
         
         grph_elements = []
         for _ in range(self.element_num):
