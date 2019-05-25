@@ -1,7 +1,7 @@
 # LayoutGAN
 LayoutGAN implementation, (under construction)
 <br><br>
-<b>README :</b> Failed to reproduce paper's result. <br>
+<b>README :</b> Failed. <br>
 - my implementation of max pooling is totally wrong.<br>
 - the self-attention(relation_module) should be checked if its back-prop gradient flows well.<br>
 - the hidden layer size is my arbitrary choice.<br>
