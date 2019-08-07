@@ -1,6 +1,8 @@
 # LayoutGAN
-LayoutGAN implementation, (under construction)
+LayoutGAN implementation, (under construction)<br>
+you'd better check  LayoutGAN of [this implementation](https://github.com/billzhonggz/LayoutGAN) 
 <br><br>
+
 <b>README :</b> Failed. <br>
 - my implementation of max pooling is totally wrong.<br>
 - the self-attention(relation_module) should be checked if its back-prop gradient flows well.<br>
