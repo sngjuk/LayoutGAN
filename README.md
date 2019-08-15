@@ -1,5 +1,6 @@
 # LayoutGAN
-LayoutGAN implementation, (this repo failed)<br>
+#### Notice!
+LayoutGAN implementation, and this repo failed<br>
 but you'd better check [this implementation](https://github.com/billzhonggz/LayoutGAN)
 <br><br>
 
