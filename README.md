@@ -1,7 +1,7 @@
 # LayoutGAN
-#### Notice!
+#### # Notice!
 LayoutGAN implementation, and this repo failed<br>
-but you'd better check [this implementation](https://github.com/billzhonggz/LayoutGAN)
+but you'd better check <b>[this implementation](https://github.com/billzhonggz/LayoutGAN) </b>
 <br><br>
 
 <b>README :</b> Failed. <br>
