@@ -1,6 +1,6 @@
 # LayoutGAN
-LayoutGAN implementation, (under construction)<br>
-you'd better check [this implementation](https://github.com/billzhonggz/LayoutGAN) 
+LayoutGAN implementation, (this repo failed)<br>
+but you'd better check [this implementation](https://github.com/billzhonggz/LayoutGAN)
 <br><br>
 
 <b>README :</b> Failed. <br>
